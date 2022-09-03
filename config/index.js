@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wx3face97ba22ef807",
+    APP_ID: "wx9fc898bd8bac4ed9",
 
     // 公众号APP_SECRET
-    APP_SECRET: "6c12731cad8d4d73ab22be937e6a874e",
+    APP_SECRET: "d363ffa75c6384a7ea680ce8f582a31b",
 
     // 模板消息id
-    TEMPLATE_ID: "_t0izGkSY6lJ-95vzw79KnTnlu3eeU9eE84Trwcc0Bk",
+    TEMPLATE_ID: "4H-dRSvn5d0DvZQLJQx38eZVGfm44VBGCl_Q-khZooE",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "_t0izGkSY6lJ-95vzw79KnTnlu3eeU9eE84Trwcc0Bk",
@@ -25,11 +25,11 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '老婆', id: "og7Qm6sSCdusmKPlBdIycaEpHIuo"}, 
+      {name: '老婆', id: "ofDQI6ikEZ6BIQ9yAnWJWghc-jhw"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "og7Qm6sGNLutQv8J62UdPPSyi6_Q"}, 
+      {name: '自己',id: "ofDQI6ikEZ6BIQ9yAnWJWghc-jhw"}, 
     ],
      
     /**
