@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "陕西",
+    PROVINCE: "安徽",
     // 所在城市
-    CITY: "西安",
+    CITY: "宿州",
 
     /** 重要节日相关 */
 
@@ -63,7 +63,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2021-10-17",
+    LOVE_DATE: "201810-17",
     // 结婚纪念日
     MARRY_DATE: "2020-01-04",
 
